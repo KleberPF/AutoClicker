@@ -190,7 +190,6 @@ int main()
             Sleep(40);
 
             GlobalFree((HGLOBAL)pixelArr);
-            running = true;
         }
         if (GetAsyncKeyState(VK_ESCAPE))
         {
