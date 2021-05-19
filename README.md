@@ -1,6 +1,5 @@
 # Auto clicker for http://donttap.com
 
-Video demo: 
+Demo: 
 
-
-https://user-images.githubusercontent.com/43550602/118885121-bcc89300-b8cd-11eb-90e0-78d9d6728c33.mp4
+![h5gab0](https://user-images.githubusercontent.com/43550602/118885445-28126500-b8ce-11eb-929e-43b5fead90c8.gif)
