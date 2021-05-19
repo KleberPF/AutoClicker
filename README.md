@@ -1,1 +1,1 @@
-# Auto clicker for https://donttap.com
+# Auto clicker for http://donttap.com
